@@ -7,7 +7,7 @@ Software Engineer
 I am a software engineer with experience in back end and front end, but i am consider of dark side(back end :D :D). I love learn about technology and have challenges.
 
 * 🌍  I'm based in Mexico 🌯 🇲🇽
-* ✉️  You can contact me at [alfonso\_h\_x@hotmail.com](mailto:alfonso_h_x@hotmail.com)
+* ✉️  You can contact me at [hxa.dev@gmail.com](mailto:hxa.dev@gmail.com)
 * 🚀  I'm currently working on [Baufest](http://baufest.com/en/)
 * 🧠  I'm learning solving hard algorithms and software architecture
 * 🤝  I'm open to collaborating on interesting projects
