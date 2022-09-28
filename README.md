@@ -13,7 +13,7 @@ I am a software engineer with experience in back end and front end, but i am con
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  i am your friend :D
 
-<a href="https://www.github.com/alfonhxdev" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/hxadev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alfonhxdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
