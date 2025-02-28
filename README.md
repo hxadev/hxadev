@@ -8,7 +8,7 @@ I am a software engineer with experience in back end and front end, but i am con
 
 * 🌍  I'm based in Mexico 🌯 🇲🇽
 * ✉️  You can contact me at [hxa.dev@gmail.com](mailto:hxa.dev@gmail.com)
-* 🚀  I'm currently working on [Baufest](http://baufest.com/en/)
+* 🚀  I'm currently working on [Scotiabank Global](http://scotiabank.com)
 * 🧠  I'm learning solving hard algorithms and software architecture
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  i am your friend :D
